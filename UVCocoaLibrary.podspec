@@ -1,11 +1,12 @@
 Pod::Spec.new do |spec|
   spec.name         = 'UVCocoaLibrary'
+  spec.platform     = :ios
   spec.version      = '1.0.0'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/selecterskycocoa/UVCocoaLibrary'
   spec.authors      = { 'selectersky' => 'selectersky@qq.com' }
   spec.summary      = 'a common library for cocoa'
-  spec.source       = { :git => 'https://github.com/selecterskycocoa/UVCocoaLibrary'}
+  spec.source       = { :git => 'https://github.com/selecterskycocoa/UVCocoaLibrary.git', :tag => '1.0.0'}
   spec.requires_arc = true
   spec.source_files = 'Category/**/*.{h,m}', 'Database/**/*.{h,m}', 'Helper/**/*.{h,m}', 'Include/**/*.{h,m}', 'Media/**/*.{h,m}', 'Model/**/*.{h,m}', 'Request/**/*.{h,m}', 'Widget/**/*.{h,m}'
   

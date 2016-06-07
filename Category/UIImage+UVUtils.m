@@ -38,7 +38,7 @@
     //使用红色 alpha为1
     CGContextSetRGBFillColor (context, 1.0, 0.0, 0.0, 1.0);
     //在指定区域写文字
-    [text_ drawInRect:rect_ withFont:font_];
+    [text_ drawInRect:rect_ withAttributes:@{NSFontAttributeName:font_}];
     //返回修改后的图片
     UIImage *rotatedImage = UIGraphicsGetImageFromCurrentImageContext();
     
@@ -56,7 +56,7 @@
 -(UIImage*)uv_writeText:(NSString*)text_ font:(UIFont*)font_
 {
     //自适应字体
-    CGSize size = [text_ sizeWithFont:font_];
+    CGSize size = [text_ sizeWithAttributes:@{NSFontAttributeName:font_}];
     CGRect rect = CGRectMake(20, 40, size.width, size.height);
     return [self uv_writeText:text_ font:font_ rect:rect];
 }
