@@ -2,8 +2,8 @@
 //  YKModelView.m
 //  YKActionSheet.h YKActionSheet
 //
-//  Created by chenjiaxin on 15/10/29.
-//  Copyright © 2015年 chenjiaxin. All rights reserved.
+//  Created by selectersky on 15/10/29.
+//  Copyright © 2015 selectersky. All rights reserved.
 //
 
 #import "UVModelView.h"

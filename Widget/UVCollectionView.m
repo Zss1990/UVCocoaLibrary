@@ -2,8 +2,8 @@
 //  UVCollectionView.m
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 15/12/30.
-//  Copyright © 2015年 Uniview. All rights reserved.
+//  Created by selectersky on 15/12/30.
+//  Copyright © 2015 Selectersky. All rights reserved.
 //
 
 #import "UVCollectionView.h"

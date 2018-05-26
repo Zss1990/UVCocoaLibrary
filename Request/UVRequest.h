@@ -1,11 +1,11 @@
-//  Copyright (c) 2014年 Zhejiang XXXX Technologies Co., Ltd. All rights reserved.
+//  Copyright (c) 2014 Zhejiang XXXX Technologies Co., Ltd. All rights reserved.
 // --------------------------------------------------------------------------------
 // UVRequest.h
 //
 // Project Code: UVCocoaLibrary
 // Module Name:
 // Date Created: 14-2-14
-// Author: chenjiaxin/00891
+// Author: selectersky/00891
 // Description:
 //
 // --------------------------------------------------------------------------------

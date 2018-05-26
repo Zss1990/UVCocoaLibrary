@@ -1,15 +1,15 @@
 /*
 UVLogger.h
 
- Created by chenjiaxin on 15/6/9.
- Copyright (c) 2015年 chenjiaxin. All rights reserved.
+ Created by selectersky on 15/6/9.
+ Copyright (c) 2015 selectersky. All rights reserved.
  
 -----------
  date                       author                       desc                       verion
- 2015-06-09           chenjiaxin                  create                     1.0.0
- 2015-06-10           chenjiaxin                  精简日志                 1.1.0
- 2015-06-11           chenjiaxin                  引入syslogd格式     1.1.1
- 2015-06-12           chenjiaxin                  增加crash捕获         1.2.0
+ 2015-06-09           selectersky                  create                     1.0.0
+ 2015-06-10           selectersky                  精简日志                 1.1.0
+ 2015-06-11           selectersky                  引入syslogd格式     1.1.1
+ 2015-06-12           selectersky                  增加crash捕获         1.2.0
  
  
  如果想将日志反馈到syslogd服务器，则需要进行如下设置

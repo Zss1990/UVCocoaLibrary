@@ -2,7 +2,7 @@
 //  UIView+Utils.m
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 9/29/13.
+//  Created by selectersky on 9/29/13.
 //  Copyright (c) 2013 XXXX. All rights reserved.
 //
 

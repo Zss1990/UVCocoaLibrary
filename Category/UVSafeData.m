@@ -2,8 +2,8 @@
 //  UVSafeData.m
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 16/1/3.
-//  Copyright © 2016年 Uniview. All rights reserved.
+//  Created by selectersky on 16/1/3.
+//  Copyright © 2016 Selectersky. All rights reserved.
 //
 
 #import "UVSafeData.h"

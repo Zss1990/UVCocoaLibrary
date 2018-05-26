@@ -2,8 +2,8 @@
 //  UVTableView.m
 //  testTableview
 //
-//  Created by chenjiaxin on 15/12/23.
-//  Copyright © 2015年 chenjaixin. All rights reserved.
+//  Created by selectersky on 15/12/23.
+//  Copyright © 2015 chenjaixin. All rights reserved.
 //
 
 #import "UVTableView.h"

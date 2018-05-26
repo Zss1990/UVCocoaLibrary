@@ -2,8 +2,8 @@
 //  UVFileManage.h
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 15/11/10.
-//  Copyright © 2015年 Uniview. All rights reserved.
+//  Created by selectersky on 15/11/10.
+//  Copyright © 2015 Selectersky. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -2,7 +2,7 @@
 //  UIPickerView+Utils.m
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 11/12/13.
+//  Created by selectersky on 11/12/13.
 //  Copyright (c) 2013 XXXX.com. All rights reserved.
 //
 

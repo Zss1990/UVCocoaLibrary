@@ -2,7 +2,7 @@
 //  UIImage+UVUtils.h
 //  br_AirimosPhone_report
 //
-//  Created by chenjiaxin on 10/11/13.
+//  Created by selectersky on 10/11/13.
 //  Copyright (c) 2013 XXXX. All rights reserved.
 //
 /**

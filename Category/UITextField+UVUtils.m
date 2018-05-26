@@ -2,8 +2,8 @@
 //  UITextField+shadow.m
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 14-5-16.
-//  Copyright (c) 2014年 XXXX. All rights reserved.
+//  Created by selectersky on 14-5-16.
+//  Copyright (c) 2014 XXXX. All rights reserved.
 //
 
 #import "UITextField+UVUtils.h"

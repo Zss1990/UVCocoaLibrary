@@ -2,8 +2,8 @@
 //  UVCocoaLibrary.h
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 16/4/25.
-//  Copyright © 2016年 hikvision. All rights reserved.
+//  Created by selectersky on 16/4/25.
+//  Copyright © 2016 Selectersky. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

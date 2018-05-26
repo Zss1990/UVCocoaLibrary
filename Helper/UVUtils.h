@@ -5,7 +5,7 @@
 // Project Code: UVCocoaLibrary
 // Module Name:
 // Date Created: 2013-11-19
-// Author: chenjiaxin/00891
+// Author: selectersky/00891
 // Description:工具函数类
 //
 // --------------------------------------------------------------------------------

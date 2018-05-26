@@ -52,21 +52,6 @@
 		4B5948D81CCDFE8E009B5DDA /* UVConest.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B59485F1CCDFE8E009B5DDA /* UVConest.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4B5948D91CCDFE8E009B5DDA /* UVAudio.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948611CCDFE8E009B5DDA /* UVAudio.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4B5948DA1CCDFE8E009B5DDA /* UVAudio.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5948621CCDFE8E009B5DDA /* UVAudio.m */; };
-		4B5948E51CCDFE8E009B5DDA /* FMDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948711CCDFE8E009B5DDA /* FMDatabase.h */; };
-		4B5948E61CCDFE8E009B5DDA /* FMDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5948721CCDFE8E009B5DDA /* FMDatabase.m */; };
-		4B5948E71CCDFE8E009B5DDA /* FMDatabaseAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948731CCDFE8E009B5DDA /* FMDatabaseAdditions.h */; };
-		4B5948E81CCDFE8E009B5DDA /* FMDatabaseAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5948741CCDFE8E009B5DDA /* FMDatabaseAdditions.m */; };
-		4B5948E91CCDFE8E009B5DDA /* FMDatabasePool.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948751CCDFE8E009B5DDA /* FMDatabasePool.h */; };
-		4B5948EA1CCDFE8E009B5DDA /* FMDatabasePool.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5948761CCDFE8E009B5DDA /* FMDatabasePool.m */; };
-		4B5948EB1CCDFE8E009B5DDA /* FMDatabaseQueue.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948771CCDFE8E009B5DDA /* FMDatabaseQueue.h */; };
-		4B5948EC1CCDFE8E009B5DDA /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5948781CCDFE8E009B5DDA /* FMDatabaseQueue.m */; };
-		4B5948ED1CCDFE8E009B5DDA /* FMResultSet.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948791CCDFE8E009B5DDA /* FMResultSet.h */; };
-		4B5948EE1CCDFE8E009B5DDA /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B59487A1CCDFE8E009B5DDA /* FMResultSet.m */; };
-		4B5948F21CCDFE8E009B5DDA /* 37x-Checkmark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5948801CCDFE8E009B5DDA /* 37x-Checkmark@2x.png */; };
-		4B5948F71CCDFE8E009B5DDA /* MBProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948851CCDFE8E009B5DDA /* MBProgressHUD.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4B5948F81CCDFE8E009B5DDA /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5948861CCDFE8E009B5DDA /* MBProgressHUD.m */; };
-		4B5948F91CCDFE8E009B5DDA /* UIView+Toast.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948871CCDFE8E009B5DDA /* UIView+Toast.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4B5948FA1CCDFE8E009B5DDA /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5948881CCDFE8E009B5DDA /* UIView+Toast.m */; };
 		4B59490D1CCDFE8E009B5DDA /* UVActivityIndicatorView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B59489F1CCDFE8E009B5DDA /* UVActivityIndicatorView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4B59490E1CCDFE8E009B5DDA /* UVActivityIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5948A01CCDFE8E009B5DDA /* UVActivityIndicatorView.m */; };
 		4B59490F1CCDFE8E009B5DDA /* UVCollectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B5948A11CCDFE8E009B5DDA /* UVCollectionView.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -103,7 +88,6 @@
 		7F2F0C151CCF906E00C9D3B8 /* UVSoap.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F2F0C0D1CCF906E00C9D3B8 /* UVSoap.m */; };
 		7F2F0C161CCF906E00C9D3B8 /* UVURLConnectionDataDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F2F0C0E1CCF906E00C9D3B8 /* UVURLConnectionDataDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7F2F0C171CCF906E00C9D3B8 /* UVURLConnectionDataDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F2F0C0F1CCF906E00C9D3B8 /* UVURLConnectionDataDelegate.m */; };
-		7F2F0C191CCF916300C9D3B8 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F2F0C181CCF916300C9D3B8 /* libsqlite3.tbd */; };
 		7F2F0C1C1CCF91BD00C9D3B8 /* UVError.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F2F0C1A1CCF91BD00C9D3B8 /* UVError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7F2F0C1D1CCF91BD00C9D3B8 /* UVError.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F2F0C1B1CCF91BD00C9D3B8 /* UVError.m */; };
 		7F46FD491CDCCD7B00298EFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F46FD481CDCCD7B00298EFF /* Assets.xcassets */; };
@@ -157,21 +141,6 @@
 		4B59485F1CCDFE8E009B5DDA /* UVConest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UVConest.h; sourceTree = "<group>"; };
 		4B5948611CCDFE8E009B5DDA /* UVAudio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UVAudio.h; sourceTree = "<group>"; };
 		4B5948621CCDFE8E009B5DDA /* UVAudio.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UVAudio.m; sourceTree = "<group>"; };
-		4B5948711CCDFE8E009B5DDA /* FMDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabase.h; sourceTree = "<group>"; };
-		4B5948721CCDFE8E009B5DDA /* FMDatabase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabase.m; sourceTree = "<group>"; };
-		4B5948731CCDFE8E009B5DDA /* FMDatabaseAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseAdditions.h; sourceTree = "<group>"; };
-		4B5948741CCDFE8E009B5DDA /* FMDatabaseAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseAdditions.m; sourceTree = "<group>"; };
-		4B5948751CCDFE8E009B5DDA /* FMDatabasePool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabasePool.h; sourceTree = "<group>"; };
-		4B5948761CCDFE8E009B5DDA /* FMDatabasePool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabasePool.m; sourceTree = "<group>"; };
-		4B5948771CCDFE8E009B5DDA /* FMDatabaseQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseQueue.h; sourceTree = "<group>"; };
-		4B5948781CCDFE8E009B5DDA /* FMDatabaseQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseQueue.m; sourceTree = "<group>"; };
-		4B5948791CCDFE8E009B5DDA /* FMResultSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMResultSet.h; sourceTree = "<group>"; };
-		4B59487A1CCDFE8E009B5DDA /* FMResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSet.m; sourceTree = "<group>"; };
-		4B5948801CCDFE8E009B5DDA /* 37x-Checkmark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "37x-Checkmark@2x.png"; sourceTree = "<group>"; };
-		4B5948851CCDFE8E009B5DDA /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
-		4B5948861CCDFE8E009B5DDA /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
-		4B5948871CCDFE8E009B5DDA /* UIView+Toast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Toast.h"; sourceTree = "<group>"; };
-		4B5948881CCDFE8E009B5DDA /* UIView+Toast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Toast.m"; sourceTree = "<group>"; };
 		4B59489F1CCDFE8E009B5DDA /* UVActivityIndicatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UVActivityIndicatorView.h; sourceTree = "<group>"; };
 		4B5948A01CCDFE8E009B5DDA /* UVActivityIndicatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UVActivityIndicatorView.m; sourceTree = "<group>"; };
 		4B5948A11CCDFE8E009B5DDA /* UVCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UVCollectionView.h; sourceTree = "<group>"; };
@@ -208,7 +177,6 @@
 		7F2F0C0D1CCF906E00C9D3B8 /* UVSoap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UVSoap.m; sourceTree = "<group>"; };
 		7F2F0C0E1CCF906E00C9D3B8 /* UVURLConnectionDataDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UVURLConnectionDataDelegate.h; sourceTree = "<group>"; };
 		7F2F0C0F1CCF906E00C9D3B8 /* UVURLConnectionDataDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UVURLConnectionDataDelegate.m; sourceTree = "<group>"; };
-		7F2F0C181CCF916300C9D3B8 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
 		7F2F0C1A1CCF91BD00C9D3B8 /* UVError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UVError.h; sourceTree = "<group>"; };
 		7F2F0C1B1CCF91BD00C9D3B8 /* UVError.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UVError.m; sourceTree = "<group>"; };
 		7F46FD481CDCCD7B00298EFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -219,7 +187,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F2F0C191CCF916300C9D3B8 /* libsqlite3.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,7 +196,6 @@
 		4B59481E1CCDFE36009B5DDA = {
 			isa = PBXGroup;
 			children = (
-				7F2F0C181CCF916300C9D3B8 /* libsqlite3.tbd */,
 				7F2F0BE71CCF8FE900C9D3B8 /* Helper */,
 				4B5948331CCDFE8E009B5DDA /* Category */,
 				4B5948571CCDFE8E009B5DDA /* Database */,
@@ -237,7 +203,6 @@
 				4B5948601CCDFE8E009B5DDA /* Media */,
 				4B5948631CCDFE8E009B5DDA /* Model */,
 				4B5948661CCDFE8E009B5DDA /* Request */,
-				4B59486F1CCDFE8E009B5DDA /* ThirdLibrary */,
 				4B59489E1CCDFE8E009B5DDA /* Widget */,
 				4B59482A1CCDFE36009B5DDA /* UVCocoaLibrary */,
 				4B5948291CCDFE36009B5DDA /* Products */,
@@ -358,44 +323,6 @@
 			path = Request;
 			sourceTree = "<group>";
 		};
-		4B59486F1CCDFE8E009B5DDA /* ThirdLibrary */ = {
-			isa = PBXGroup;
-			children = (
-				4B5948701CCDFE8E009B5DDA /* FDMS */,
-				4B59487F1CCDFE8E009B5DDA /* MBProgressHUD */,
-				4B5948871CCDFE8E009B5DDA /* UIView+Toast.h */,
-				4B5948881CCDFE8E009B5DDA /* UIView+Toast.m */,
-			);
-			path = ThirdLibrary;
-			sourceTree = "<group>";
-		};
-		4B5948701CCDFE8E009B5DDA /* FDMS */ = {
-			isa = PBXGroup;
-			children = (
-				4B5948711CCDFE8E009B5DDA /* FMDatabase.h */,
-				4B5948721CCDFE8E009B5DDA /* FMDatabase.m */,
-				4B5948731CCDFE8E009B5DDA /* FMDatabaseAdditions.h */,
-				4B5948741CCDFE8E009B5DDA /* FMDatabaseAdditions.m */,
-				4B5948751CCDFE8E009B5DDA /* FMDatabasePool.h */,
-				4B5948761CCDFE8E009B5DDA /* FMDatabasePool.m */,
-				4B5948771CCDFE8E009B5DDA /* FMDatabaseQueue.h */,
-				4B5948781CCDFE8E009B5DDA /* FMDatabaseQueue.m */,
-				4B5948791CCDFE8E009B5DDA /* FMResultSet.h */,
-				4B59487A1CCDFE8E009B5DDA /* FMResultSet.m */,
-			);
-			path = FDMS;
-			sourceTree = "<group>";
-		};
-		4B59487F1CCDFE8E009B5DDA /* MBProgressHUD */ = {
-			isa = PBXGroup;
-			children = (
-				4B5948801CCDFE8E009B5DDA /* 37x-Checkmark@2x.png */,
-				4B5948851CCDFE8E009B5DDA /* MBProgressHUD.h */,
-				4B5948861CCDFE8E009B5DDA /* MBProgressHUD.m */,
-			);
-			path = MBProgressHUD;
-			sourceTree = "<group>";
-		};
 		4B59489E1CCDFE8E009B5DDA /* Widget */ = {
 			isa = PBXGroup;
 			children = (
@@ -451,7 +378,6 @@
 				4B59482C1CCDFE36009B5DDA /* UVCocoaLibrary.h in Headers */,
 				4B5948D41CCDFE8E009B5DDA /* UVIdEntity.h in Headers */,
 				4B5948CC1CCDFE8E009B5DDA /* UIView+UVUtils.h in Headers */,
-				4B5948F71CCDFE8E009B5DDA /* MBProgressHUD.h in Headers */,
 				4B5948CE1CCDFE8E009B5DDA /* UIViewController+UVUtils.h in Headers */,
 				4B5948C21CCDFE8E009B5DDA /* UIPickerView+Utils.h in Headers */,
 				4B5949111CCDFE8E009B5DDA /* UVMenuButton.h in Headers */,
@@ -481,18 +407,12 @@
 				4B5949151CCDFE8E009B5DDA /* UVPageScrollView.h in Headers */,
 				4B5948C41CCDFE8E009B5DDA /* UIScrollView+UVUtils.h in Headers */,
 				4B5948B41CCDFE8E009B5DDA /* NSObject+UVObjects.h in Headers */,
-				4B5948F91CCDFE8E009B5DDA /* UIView+Toast.h in Headers */,
 				4B5948BC1CCDFE8E009B5DDA /* UIButton+Bootstrap.h in Headers */,
 				4B5949171CCDFE8E009B5DDA /* UVScrollView.h in Headers */,
 				4B5948B21CCDFE8E009B5DDA /* NSMutableArray+UVUtils.h in Headers */,
 				4B5948C81CCDFE8E009B5DDA /* UITextField+UVUtils.h in Headers */,
 				4B5948D21CCDFE8E009B5DDA /* UVFMDatabase.h in Headers */,
 				7F2F0C1C1CCF91BD00C9D3B8 /* UVError.h in Headers */,
-				4B5948ED1CCDFE8E009B5DDA /* FMResultSet.h in Headers */,
-				4B5948E91CCDFE8E009B5DDA /* FMDatabasePool.h in Headers */,
-				4B5948E51CCDFE8E009B5DDA /* FMDatabase.h in Headers */,
-				4B5948EB1CCDFE8E009B5DDA /* FMDatabaseQueue.h in Headers */,
-				4B5948E71CCDFE8E009B5DDA /* FMDatabaseAdditions.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -555,7 +475,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B5948BB1CCDFE8E009B5DDA /* readme.txt in Resources */,
-				4B5948F21CCDFE8E009B5DDA /* 37x-Checkmark@2x.png in Resources */,
 				4B5948AF1CCDFE8E009B5DDA /* FontAwesome.ttf in Resources */,
 				7F46FD491CDCCD7B00298EFF /* Assets.xcassets in Resources */,
 				4B5948BA1CCDFE8E009B5DDA /* operationbox_text@2x.png in Resources */,
@@ -590,13 +509,11 @@
 				4B5948BF1CCDFE8E009B5DDA /* UIColor+UVUtils.m in Sources */,
 				4B5949141CCDFE8E009B5DDA /* UVModelView.m in Sources */,
 				7F2F0C171CCF906E00C9D3B8 /* UVURLConnectionDataDelegate.m in Sources */,
-				4B5948F81CCDFE8E009B5DDA /* MBProgressHUD.m in Sources */,
 				7F2F0C151CCF906E00C9D3B8 /* UVSoap.m in Sources */,
 				4B5949121CCDFE8E009B5DDA /* UVMenuButton.m in Sources */,
 				4B5948C31CCDFE8E009B5DDA /* UIPickerView+Utils.m in Sources */,
 				4B5948C91CCDFE8E009B5DDA /* UITextField+UVUtils.m in Sources */,
 				4B5948C51CCDFE8E009B5DDA /* UIScrollView+UVUtils.m in Sources */,
-				4B5948FA1CCDFE8E009B5DDA /* UIView+Toast.m in Sources */,
 				4B5949161CCDFE8E009B5DDA /* UVPageScrollView.m in Sources */,
 				4B5948BD1CCDFE8E009B5DDA /* UIButton+Bootstrap.m in Sources */,
 				4B5948B71CCDFE8E009B5DDA /* NSString+FontAwesome.m in Sources */,
@@ -607,7 +524,6 @@
 				7F2F0C111CCF906E00C9D3B8 /* UVHttpClient.m in Sources */,
 				4B5948B91CCDFE8E009B5DDA /* NSString+UVUtils.m in Sources */,
 				4B5948D51CCDFE8E009B5DDA /* UVIdEntity.m in Sources */,
-				4B5948E61CCDFE8E009B5DDA /* FMDatabase.m in Sources */,
 				4B5949101CCDFE8E009B5DDA /* UVCollectionView.m in Sources */,
 				4B5948CD1CCDFE8E009B5DDA /* UIView+UVUtils.m in Sources */,
 				4B5948D11CCDFE8E009B5DDA /* UVSafeData.m in Sources */,
@@ -615,14 +531,11 @@
 				4B5948C71CCDFE8E009B5DDA /* UITableView+UVUtils.m in Sources */,
 				7F2F0BFF1CCF8FE900C9D3B8 /* UVLogger.m in Sources */,
 				7F2F0BFB1CCF8FE900C9D3B8 /* UVDevice.m in Sources */,
-				4B5948E81CCDFE8E009B5DDA /* FMDatabaseAdditions.m in Sources */,
 				4B59490E1CCDFE8E009B5DDA /* UVActivityIndicatorView.m in Sources */,
-				4B5948EE1CCDFE8E009B5DDA /* FMResultSet.m in Sources */,
 				4B59491A1CCDFE8E009B5DDA /* UVTableView.m in Sources */,
 				4B5948CB1CCDFE8E009B5DDA /* UIView+Shake.m in Sources */,
 				7F2F0C1D1CCF91BD00C9D3B8 /* UVError.m in Sources */,
 				4B59491C1CCDFE8E009B5DDA /* UVToolbarDatepickerView.m in Sources */,
-				4B5948EA1CCDFE8E009B5DDA /* FMDatabasePool.m in Sources */,
 				4B5948B51CCDFE8E009B5DDA /* NSObject+UVObjects.m in Sources */,
 				7F2F0C011CCF8FE900C9D3B8 /* UVUtils.m in Sources */,
 				7F2F0BF91CCF8FE900C9D3B8 /* UVCache.m in Sources */,
@@ -630,7 +543,6 @@
 				7F2F0C031CCF8FE900C9D3B8 /* UVValidate.m in Sources */,
 				4B5948B11CCDFE8E009B5DDA /* NSDate+UVUtils.m in Sources */,
 				4B5949181CCDFE8E009B5DDA /* UVScrollView.m in Sources */,
-				4B5948EC1CCDFE8E009B5DDA /* FMDatabaseQueue.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

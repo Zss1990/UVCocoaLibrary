@@ -2,8 +2,8 @@
 //  UVToolbarDatepickerView.h
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 15/11/12.
-//  Copyright © 2015年 Uniview. All rights reserved.
+//  Created by selectersky on 15/11/12.
+//  Copyright © 2015 Selectersky. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

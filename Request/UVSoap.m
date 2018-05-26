@@ -2,8 +2,8 @@
 //  UVSoap.m
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 14/10/20.
-//  Copyright (c) 2014年 XXXX. All rights reserved.
+//  Created by selectersky on 14/10/20.
+//  Copyright (c) 2014 XXXX. All rights reserved.
 //
 
 #import "UVSoap.h"

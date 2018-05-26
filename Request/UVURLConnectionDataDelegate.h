@@ -1,11 +1,11 @@
-//  Copyright (c) 2014年 XXXX. All rights reserved.
+//  Copyright (c) 2014 XXXX. All rights reserved.
 // --------------------------------------------------------------------------------
 // UVURLConnectionDataDelegate.h
 //
 // Project Code: HttpClient
 // Module Name:
 // Date Created: 14-2-27
-// Author: chenjiaxin/00891
+// Author: selectersky/00891
 // Description:
 //
 // --------------------------------------------------------------------------------

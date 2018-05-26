@@ -2,7 +2,7 @@
 //  UIViewController+UVUtils.h
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 10/18/13.
+//  Created by selectersky on 10/18/13.
 //  Copyright (c) 2013 XXXX.com. All rights reserved.
 //
 

@@ -2,8 +2,8 @@
 //  UVLogger.m
 //  syslogd
 //
-//  Created by chenjiaxin on 15/6/9.
-//  Copyright (c) 2015年 chenjiaxin. All rights reserved.
+//  Created by selectersky on 15/6/9.
+//  Copyright (c) 2015 selectersky. All rights reserved.
 //
 
 #import "UVLogger.h"

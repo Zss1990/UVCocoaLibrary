@@ -2,8 +2,8 @@
 //  UVDevice.m
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 15/6/5.
-//  Copyright (c) 2015年 Chenjiaxin. All rights reserved.
+//  Created by selectersky on 15/6/5.
+//  Copyright (c) 2015 selectersky. All rights reserved.
 //
 
 #import "UVDevice.h"

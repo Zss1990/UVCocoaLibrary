@@ -1,11 +1,11 @@
-//  Copyright (c) 2014年 XXXX. All rights reserved.
+//  Copyright (c) 2014 XXXX. All rights reserved.
 // --------------------------------------------------------------------------------
 // UVActivityIndicatorView.m
 //
 // Project Code: UVCocoaLibrary
 // Module Name:
 // Date Created: 14-6-3
-// Author: chenjiaxin/00891
+// Author: selectersky/00891
 // Description:
 //
 // --------------------------------------------------------------------------------

@@ -2,8 +2,8 @@
 //  UVError.m
 //  UVCocoaLibrary
 //
-//  Created by chenjiaxin on 13-12-11.
-//  Copyright (c) 2013年 XXXX. All rights reserved.
+//  Created by selectersky on 13-12-11.
+//  Copyright (c) 2013 XXXX. All rights reserved.
 //
 
 #import "UVError.h"
